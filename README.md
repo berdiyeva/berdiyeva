@@ -5,8 +5,7 @@
 -->
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on fun and interesting projects
-- 🤔 I’m looking for help with web design and development 
+- 👯 I’m looking to collaborate on designing and developing interesting websites and web applications 
 - 📫 How to reach me: berdiyevaaltyn@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak fluently in four languages.
