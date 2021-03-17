@@ -10,8 +10,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak fluently in four languages.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berdiyeva)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
