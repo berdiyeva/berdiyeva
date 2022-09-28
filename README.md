@@ -4,7 +4,7 @@
 **berdiyeva/berdiyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on personal projects 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python back end development
 - 👯 I’m looking to collaborate on designing and developing interesting websites and web applications 
 - 📫 How to reach me: berdiyevaaltyn@gmail.com 
 - 😄 Pronouns: she/her
