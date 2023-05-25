@@ -4,9 +4,8 @@
 **berdiyeva/berdiyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working as software developer and sometime on personal projects 
-- 👯 I’m looking to collaborate on designing and developing interesting websites and web applications 
+- 🤓 I’m looking to collaborate on designing and developing interesting websites and web applications 
 - 📫 How to reach me: berdiyevaaltyn@gmail.com 
-- ⚡ Fun fact: I can speak fluently in four languages.
 
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/altyn-berdiyeva/" target="blank">LinkedIn</a></h3>
 
